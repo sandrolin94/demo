@@ -1,3 +1,5 @@
 DEMO POUR LE GIT
 
 DELO +> GO++
+
+DEV++ i++ ou i=i+1
